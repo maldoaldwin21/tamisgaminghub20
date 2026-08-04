@@ -3,7 +3,7 @@
 A responsive gaming hub website developed to showcase gaming services, products, and community information.
 
 ## Live Demo
-https://tamis-gaming-hub.vercel.app
+https://tamisgaminghub20.vercel.app
 
 ## Technologies Used
 - React
